@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="car_image_description">Изображение машины такси</string>
+    <string name="error_image_not_loaded">Изображение не загружено</string>
+    <string name="try_again_button_text">Попробовать еще раз</string>
+    <string name="ride_details_date">Поездка %1$s</string>
+    <string name="ride_details_time">Время заказа: %1$s</string>
+    <string name="ride_details_vehicle">Автомобиль</string>
+    <string name="ride_details_driver">Водитель</string>
+    <string name="error_order_not_chosen">Заказ не выбран</string>
+    <string name="error_cant_load_ride_details">Не удалось загрузить детали заказа #%1$d</string>
+    <string name="ride_details_price">Стоимость: %1$s</string>
+    <string name="error_cant_load_rides_list">Не удалось загрузить заказы</string>
+</resources>

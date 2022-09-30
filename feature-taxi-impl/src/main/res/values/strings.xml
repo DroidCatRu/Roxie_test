@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="car_image_description">Taxi car image</string>
+    <string name="error_image_not_loaded">Image not loaded</string>
+    <string name="try_again_button_text">Try again</string>
+    <string name="ride_details_date">Ride at %1$s</string>
+    <string name="ride_details_time">Order time: %1$s</string>
+    <string name="ride_details_vehicle">Vehicle</string>
+    <string name="ride_details_driver">Driver</string>
+    <string name="error_order_not_chosen">Order not chosen</string>
+    <string name="error_cant_load_ride_details">Can\'t load order #%1$d details</string>
+    <string name="ride_details_price">Price: %1$s</string>
+    <string name="error_cant_load_rides_list">Can\'t load orders</string>
+</resources>
