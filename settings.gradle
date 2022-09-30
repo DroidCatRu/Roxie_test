@@ -1,0 +1,25 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "Roxie_test"
+include ':app'
+include ':core-local-api'
+include ':core-ui'
+include ':core-local-impl'
+include ':core-remote-api'
+include ':core-remote-impl'
+include ':core-navigation'
+include ':core-utils'
+include ':feature-taxi-api'
+include ':feature-taxi-impl'
